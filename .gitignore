@@ -1,0 +1,33 @@
+# Dependency directories
+/node_modules
+/my-react-app
+
+# Build output
+/build
+/dist
+
+# Environment variables
+.env
+
+# IDE and editor files
+.idea
+.vscode
+*.swp
+*.swo
+
+# Logs and debugging files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
